@@ -1,0 +1,42 @@
+.gen{
+    background-color: red;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+
+}
+.yellow{
+    
+    background-color: yellow;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+}
+.trian{
+    
+    background-color:#05ff00;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+}
+.blue{
+    
+    background-color:blue;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+}
+.purpl{
+    
+    background-color: #fa00ff;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+}
+.coll{
+    
+    background-color: #00fff0;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+}
